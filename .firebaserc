@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "miary-portfolio",
+    "staging": "siuming-intro"
+  },
+  "targets": {},
+  "etags": {}
+}
