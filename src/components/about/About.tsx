@@ -54,7 +54,7 @@ const About = () => {
             </Heading>
           </div>
           <div className="about-text-desc">
-            <Text fontSize='3xl'>passionate <span className="name">Full Stack Developer | Blockchain Developer</span> from Hong KongResults-driven Full-Stack Developer with expertise in Blockchain Technology and extensive experience in developing web applications using TypeScript. Proficient in multiple programing languages such as JavaScript, Python, Solidity, C++, and Next.js framework. A collaborative team player committed to delivering high-quality software products that exceed expectations</Text>
+            <Text fontSize='3xl'>passionate <span className="name">Full Stack Developer | Blockchain Developer</span> from HK. Results-driven Full-Stack Developer with expertise in Blockchain Technology and extensive experience in developing web applications using TypeScript. Proficient in multiple programing languages such as JavaScript, Python, Solidity, C++, and Next.js framework. A collaborative team player committed to delivering high-quality software products that exceed expectations</Text>
           </div>
           <div className="icons">
             <a href="https://github.com/audreybass140" target="_blank">
